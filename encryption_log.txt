@@ -1,0 +1,6 @@
+[2025-05-21 13:05:23] Encrypted: C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures/try hacnjk me.txt -> C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures\try hacnjk me.txt.enc
+[2025-05-21 13:05:38] Decrypted: C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures/try hacnjk me.txt.enc -> C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures\try hacnjk me.txt_dec
+[2025-05-21 14:21:05] Encrypted: C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures/try hacnjk me.txt -> C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures\try hacnjk me.txt.enc
+[2025-05-21 14:21:12] Decrypted: C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures/try hacnjk me.txt.enc -> C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures\try hacnjk me.txt_dec
+[2025-05-21 16:11:27] Encrypted: C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures/try hacnjk me.txt -> C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures\try hacnjk me.txt.enc
+[2025-05-21 16:11:40] Decrypted: C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures/try hacnjk me.txt.enc -> C:/Users/HP/OneDrive/protect ramsom ware/OneDrive/Pictures\try hacnjk me.txt_dec
