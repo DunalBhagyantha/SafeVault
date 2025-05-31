@@ -24,4 +24,4 @@ It uses AES encryption to protect your files with a password.
 
 ---
 
-Made with love by Dunal ❤️  
+Made by Dunal ❤️  
