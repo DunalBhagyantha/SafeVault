@@ -9,7 +9,7 @@ from cryptography.hazmat.primitives import hashes
 from cryptography.hazmat.backends import default_backend
 import base64
 
-# === Helper Functions ===
+ # Helper Functions 
 
 def generate_key_from_password(password: str, salt: bytes) -> bytes:
     password_bytes = password.encode()
@@ -27,7 +27,7 @@ def save_log(message):
     with open("encryption_log.txt", "a") as log_file:
         log_file.write(f"[{timestamp}] {message}\n")
 
-# === Encryption/Decryption Logic ===
+# Encryption/Decryption Logic
 
 def encrypt_file():
     try:
@@ -92,21 +92,21 @@ def decrypt_file():
     except Exception as e:
         messagebox.showerror("Error", str(e))
 
-# === GUI Setup ===
+# GUI Setup
 
 root = TkinterDnD.Tk()
 root.title("SafeVault - Dunal")
 root.geometry("620x520")
 root.configure(bg="#f2f2f2")
 
-# === Variables ===
+# Variables
 
 file_path_var = tk.StringVar()
 password_var = tk.StringVar()
 confirm_var = tk.StringVar()
 save_location_var = tk.StringVar(value=os.getcwd())
 
-# === Style ===
+# Style
 
 style_font = ("Segoe UI", 11)
 entry_bg = "#ffffff"
@@ -115,7 +115,7 @@ button_bg = "#4CAF50"
 button_fg = "#ffffff"
 accent_color = "#0078D4"
 
-# === Layout ===
+# Layout
 
 tk.Label(root, text="SafeVault", font=("Segoe UI", 22, "bold"), fg=accent_color, bg="#f2f2f2").pack(pady=20)
 
